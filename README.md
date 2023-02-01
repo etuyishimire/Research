@@ -1,3 +1,3 @@
-# Reasearch
+# Research
 
 research goes here
